@@ -19,5 +19,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"caret_style": "smooth",
+	"draw_white_space": "all",
+	"caret_style": "smooth"
 }
