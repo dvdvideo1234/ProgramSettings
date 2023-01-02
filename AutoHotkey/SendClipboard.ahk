@@ -1,3 +1,3 @@
-; win + v
-#v::
+; ctrl + b
+^b::
   SendRaw %clipboard%
