@@ -1,13 +1,35 @@
+# C:\Windows\System32\drivers\etc
+
+# Resolving localhost name is handled within DNS itself.
+127.0.0.1  localhost
+::1        localhost
+
+# Aomei
+127.0.0.1  www.aomeitech.com
+127.0.0.1  aomeitech.com
+
+# Windows tracking
+127.0.0.1  data.microsoft.com
+127.0.0.1  msftconnecttest.com
+127.0.0.1  azureedge.net
+127.0.0.1  activity.windows.com
+127.0.0.1  bingapis.com
+127.0.0.1  msedge.net
+127.0.0.1  assets.msn.com
+127.0.0.1  scorecardresearch.com
+127.0.0.1  edge.microsoft.com
+127.0.0.1  data.msn.com
+
 # Viber
-127.0.0.1 ads.viber.com 
-127.0.0.1 ads.aws.viber.com 
-127.0.0.1 ads-d.viber.com 
-127.0.0.1 images.taboola.com 
-127.0.0.1 api.taboola.com 
-127.0.0.1 rmp.rakuten.com 
-127.0.0.1 s-clk.rmp.rakuten.com 
-127.0.0.1 s-bid.rmp.rakuten.com 
-127.0.0.1 ads.viber.com 
-127.0.0.1 s-imp.rmp.rakuten.com 
-127.0.0.1 rmp.rakuten.com 
-127.0.0.1 api.mixpanel.com
+127.0.0.1  ads.viber.com 
+127.0.0.1  ads.aws.viber.com 
+127.0.0.1  ads-d.viber.com 
+127.0.0.1  images.taboola.com 
+127.0.0.1  api.taboola.com 
+127.0.0.1  rmp.rakuten.com 
+127.0.0.1  s-clk.rmp.rakuten.com 
+127.0.0.1  s-bid.rmp.rakuten.com 
+127.0.0.1  ads.viber.com 
+127.0.0.1  s-imp.rmp.rakuten.com 
+127.0.0.1  rmp.rakuten.com 
+127.0.0.1  api.mixpanel.com
