@@ -33,3 +33,12 @@
 127.0.0.1  s-imp.rmp.rakuten.com 
 127.0.0.1  rmp.rakuten.com 
 127.0.0.1  api.mixpanel.com
+
+# Acronis
+127.0.0.1 activation.acronis.com
+127.0.0.1 web-api-tih.acronis.com
+127.0.0.1 web-api-tie.acronis.com
+127.0.0.1 web-api-vmp.acronis.com
+127.0.0.1 cloud-rs-ru2.acronis.com
+127.0.0.1 cloud-fes-ru2.acronis.com
+127.0.0.1 rpc.acronis.com
