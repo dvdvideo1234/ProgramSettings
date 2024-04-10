@@ -1,0 +1,3 @@
+[submodule "Sublime3/Glua/Addons/PrettyLua/StyLua"]
+	path = Sublime3/Glua/Addons/PrettyLua/StyLua
+	url = git@github.com:JohnnyMorganz/StyLua.git

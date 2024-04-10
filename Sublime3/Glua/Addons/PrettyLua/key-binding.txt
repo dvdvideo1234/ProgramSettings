@@ -1,0 +1,4 @@
+{
+    "keys": [ "alt+l" ],
+    "command": "pretty_lua"
+},
