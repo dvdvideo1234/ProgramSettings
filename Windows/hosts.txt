@@ -30,10 +30,13 @@
 127.0.0.1  ams1-mobile.adnxs.com
 127.0.0.1  api.mixpanel.com
 127.0.0.1  api.taboola.com
+127.0.0.1  cdn.cookielaw.org
 127.0.0.1  cdn.taboola.com
 127.0.0.1  contact.primis.tech
 127.0.0.1  data.mixpanel.com
+127.0.0.1  embed.sendtonews.com
 127.0.0.1  fra1-ib.adnxs.com
+127.0.0.1  geolocation.onetrust.com
 127.0.0.1  images.taboola.com
 127.0.0.1  live-eu-am.primis.tech
 127.0.0.1  live-us-ny.primis.tech
@@ -42,11 +45,13 @@
 127.0.0.1  locp-ir.viber.com
 127.0.0.1  media.cdn.viber.com
 127.0.0.1  mediation.adnxs.com
+127.0.0.1  mp.mmvideocdn.com
 127.0.0.1  pagead2.googlesyndication.com
 127.0.0.1  primis-amp.tech
 127.0.0.1  primis-d.openx.net
 127.0.0.1  primis.tech
 127.0.0.1  primisttd-d.openx.net
+127.0.0.1  privacyportal.onetrust.com
 127.0.0.1  rmp.rakuten.com
 127.0.0.1  rtb.primis.tech
 127.0.0.1  s-bid.rmp.rakuten.com
@@ -54,6 +59,7 @@
 127.0.0.1  s-imp.rmp.rakuten.com
 127.0.0.1  s.pc.qq.com
 127.0.0.1  securepubads.g.doubleclick.net
+127.0.0.1  sendtonews.com
 127.0.0.1  stats.viber.com
 127.0.0.1  sy.guanjia.qq.com
 127.0.0.1  syzs.qq.com
