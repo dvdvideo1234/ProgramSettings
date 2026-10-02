@@ -40,6 +40,7 @@
 127.0.0.1  live.primis-amp.tech
 127.0.0.1  live.primis.tech
 127.0.0.1  locp-ir.viber.com
+127.0.0.1  media.cdn.viber.com
 127.0.0.1  mediation.adnxs.com
 127.0.0.1  pagead2.googlesyndication.com
 127.0.0.1  primis-amp.tech
